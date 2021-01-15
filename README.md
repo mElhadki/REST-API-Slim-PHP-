@@ -36,8 +36,4 @@ Now Connecting Database
  7th Step: Click on browse file and select "art.sql" file which is inside the folder
  8th Step: Click on go.
 ```
-After Creating Database,
-```
- 9th Step: Open a browser and go to URL "http://localhost/Slim-php/public/index.php/api/art" to see the data 
- You can test the api in postman if you want 
-```
+
